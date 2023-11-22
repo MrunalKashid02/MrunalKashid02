@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrunal Kashid</h1>
-<h3 align="center">A passionate FULL STACK  DEVELOPER !</h3>
+<h3 align="center">A passionate FULL STACK WEB DEVELOPER !</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
